@@ -1,3 +1,3 @@
-Khammam.
-Hyderabad.
-Banglore.
+- Khammam.
+- Hyderabad.
+- Banglore.
